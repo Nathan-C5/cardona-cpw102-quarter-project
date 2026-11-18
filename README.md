@@ -1,4 +1,4 @@
-# [Recipe Application]
+# Recipe Application
 
 ## Project description
 Describe what your project does and who it helps.
