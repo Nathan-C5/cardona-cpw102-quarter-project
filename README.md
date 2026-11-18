@@ -1,8 +1,8 @@
-# [Project name]
+# [Recipe Application]
 
 ## Project description
-
 Describe what your project does and who it helps.
+The project is a application for people who likes to cook their recipes often and doesn't want to get lost.
 
 ## Author
 
