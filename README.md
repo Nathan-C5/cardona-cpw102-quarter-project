@@ -1,12 +1,10 @@
 # Recipe Application
 
 ## Project description
-Describe what your project does and who it helps.
-The project is a application for people who likes to cook their recipes often and doesn't want to get lost.
+This project would create a application to help people keep track of their recipes as time goes on. It would help people that often loses recipes or cannot keep track. 
 
 ## Author
-
-Add your name and, optionally, your GitHub username.
+Nathan / Nathan C-5
 
 ## Environment setup
 
