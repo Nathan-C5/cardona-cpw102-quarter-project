@@ -1,14 +1,16 @@
 # Recipe Application
 
 ## Project description
-This project would create a application to help people keep track of their recipes as time goes on. It would help people that often loses recipes or cannot keep track. 
+This project would create a application to help people keep track of their recipes as time goes on. 
+It would help people that often loses recipes or cannot keep track. 
 
 ## Author
-Nathan / Nathan C-5
+Nathan Cardona/Nathan-C5
 
 ## Environment setup
 
 List the Python version and the commands to create and activate a virtual environment.
+
 
 ## Dependencies
 
