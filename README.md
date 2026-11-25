@@ -1,25 +1,22 @@
 # Recipe Application
 
 ## Project description
-This project would create a application to help people keep track of their recipes as time goes on. 
-It would help people that often loses recipes or cannot keep track. 
+This project is going to create an application to help people that can't find a recipe that the person is looking for.
+
 
 ## Author
 Nathan Cardona/Nathan-C5
 
 ## Environment setup
-
-List the Python version and the commands to create and activate a virtual environment.
-
+In order for the application to run properly, it **requires** a version of **Python 3.6 or higher**.
 
 ## Dependencies
-
-Explain how to install any packages your project needs.
-
+The application is **REQUIRED** to install **pip** in order to run properly. 
 ## Running the project
-
-Give the command to start the program and one example of how to use it.
-
+After you have installed **pip** to your terminal, make sure to run **pip install pyfood** to your terminal. 
 ## Running the tests
+To start running the tests, insert the following:
 
-Give the command to run the unit tests.
+**from pyfood.utills import Shelf** 
+
+**shelf = Shelf(region='France', month_id=0)** 
